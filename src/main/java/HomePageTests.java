@@ -7,7 +7,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class FirstTestNGTest {
+public class HomePageTests {
     public String baseUrl = "http://demo.guru99.com/test/newtours/";
     public WebDriver driver;
 
